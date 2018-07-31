@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08900d92de4df474a985276a4539d353
+timeCreated: 1525747921
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pokemon: {instanceID: 0}
+  - PopUpMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
